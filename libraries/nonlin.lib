@@ -1,0 +1,30 @@
+# det_name	dividing_en (in case of two curves)
+# a0            a1              a2
+a   350 keV     # Dubna detA
+-9.27129300e-2  1.98558000e-3   -2.77439582e-6
+1.99080790e-1   2.23723895e-4   -1.04598745e-7
+
+b	2505 keV	# Brno - winter 2018
+-0.00709756     0.00147105      -6.41296e-07
+0.992073        0.0984365       -3.95087e-05
+
+# Brno canam-II+III, fit updated 2024
+# b 660 keV	# Brno - spring 2019
+# -0.316356       0.00299271      -2.27948e-06
+# -1.36999        0.00544681      -3.49436e-06
+# b	0 keV       # Spring 2019 - single functions
+# -0.592477       0.00430916      -3.15979e-06
+
+e	0 keV       # Rez Canberra - Dusan 2024 from CANAM-II data
+-0.0790087	0.000490111     -1.16952e-07
+
+f	0 keV       # Rez Caen - Dusan 2024 from CANAM-II data
+0.18416     -0.000217953    -4.03004e-08
+
+c	500 keV		# Vyskov Canberra det C update 2024
+-0.237837       0.00351086      -4.02447e-06
+0.628033        1.97471e-06     -3.30461e-07
+
+d	350 keV		# Vyskov Silena det D
+-3.36138        0.0334205       -5.02116e-05
+2.43562         -0.000119405    -1.19145e-06

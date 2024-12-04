@@ -1,0 +1,29 @@
+
+
+Sample:                                                                 
+Filename: C:\Users\Dusan\Desktop\Deimos\\137Cs_2015.CHN
+File created or changed:   06.08.2019
+No.of channels: 16100
+Measurement date: 27/MAR/19     12:03
+Evaluated : 08.08.2019 14:13:28
+Live time:   296.0 s   Real time:   302.0 s    Dead time:  1.99 %
+Counts total:    392917    Input counts/sec:   1327
+            Satellite peaks:
+s10: 0.000  s11: 0.000  s12: 0.000
+d10:   2.5  d11:   4.0  d12:  10.0
+s20: 0.000  s21: 0.000  s22: 0.000
+d20:   0.0  d21:   0.0  d22:   0.0
+base: 0.00000
+
+            ENERGY CALIBRATION
+ 2.774682870882E+0001  1.964252314192E-0001  0.000000000000E+0000  0.000000000000E+0000
+
+            FWHM CALIBRATION
+ 6.598728484701E+0000  9.606801095889E-0004  0.000000000000E+0000
+
+Energy: preliminary linear calibration
+FWHM: preliminary linear calibration
+
+  channel  cherr    energy      area aerr%  fwhm chisq it left   n  lim isotope
+==============================================================================
+ 3231.325  0.017   662.461   74071.0   0.5 10.50  2.70  28 3195  61  433

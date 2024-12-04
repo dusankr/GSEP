@@ -1,0 +1,57 @@
+# MEASUREMENT INFO
+End of irradiation: 08/11/2018 06:30:00
+Duration of irradiation: 350.100 min
+Integral beam intensity and uncertainity: 0.00E+00 +- 0.00E+00 
+
+
+# SAMPLE INFO
+# Name			Det	Weight (g)	Weight err (g)	Molar mass	Material	Fraction wt.	Density (g/cm^3)	Thickness (mm)
+ fAld1p5.prn	f	0.2131	0.0001			26.9815	    13Al		-				-					0.5
+ fAld2p5.prn	f	0.2131	0.0001			26.9815	    13Al		-				-					0.5
+ eAld1p5.prn	e	0.2131	0.0001			26.9815	    13Al		-				-					0.5
+ bAld1p0.prn	b	0.2131	0.0001			26.9815	    13Al		-				-					0.5
+ bAld2p0.prn	b	0.2131	0.0001			26.9815	    13Al		-				-					0.5
+ bAld3p0.prn	b	0.2131	0.0001			26.9815	    13Al		-				-					0.5
+ eAud1p5.prn	e	0.1716	0.0001			196.9666	79Au		-				-					0.06
+ fAud1p5.prn	f	0.1716	0.0001			196.9666	79Au		-				-					0.06
+ eAud2p5.prn	e	0.1716	0.0001			196.9666	79Au		-				-					0.06
+ dAud1p0.prn	d	0.1716	0.0001			196.9666	79Au		-				-					0.06
+ cAud2p0.prn	c	0.1716	0.0001			196.9666	79Au		-				-					0.06
+ cAud3p0.prn	c	0.1716	0.0001			196.9666	79Au		-				-					0.06
+ fYd1p5.prn	    f	0.1607	0.0001			88.9059	    39Y		    -				-					0.25
+ fYd2p5.prn	    f	0.1607	0.0001			88.9059	    39Y		    -				-					0.25
+ eYd1p5.prn	    e	0.1607	0.0001			88.9059	    39Y		    -				-					0.25
+ bYd1p0.prn	    b	0.1607	0.0001			88.9059	    39Y		    -				-					0.25
+ bYd2p0.prn	    b	0.1607	0.0001			88.9059	    39Y		    -				-					0.25
+ bYd3p0.prn	    b	0.1607	0.0001			88.9059	    39Y		    -				-					0.25
+
+
+# DETECTOR INFO
+# Detector	Cal en_1 (keV)	Cal en_2 (keV)
+ b		122.0607				1332.4900
+ c		121.7800				1408.0100
+ d		121.7800				1408.0100
+ e		122.0600				2113.0900
+ f		122.0600				2113.0900
+
+
+# NON-POINT INFO
+# Name			Non-point correction
+ fAld1p5.prn	1.0000
+ fAld2p5.prn	1.0000
+ eAld1p5.prn	1.0000
+ bAld1p0.prn	1.0000
+ bAld2p0.prn	1.0000
+ bAld3p0.prn	1.0000
+ eAud1p5.prn	1.0000
+ fAud1p5.prn	1.0000
+ eAud2p5.prn	1.0000
+ dAud1p0.prn	1.0000
+ cAud2p0.prn	1.0000
+ cAud3p0.prn	1.0000
+ fYd1p5.prn	1.0000
+ fYd2p5.prn	1.0000
+ eYd1p5.prn	1.0000
+ bYd1p0.prn	1.0000
+ bYd2p0.prn	1.0000
+ bYd3p0.prn	1.0000

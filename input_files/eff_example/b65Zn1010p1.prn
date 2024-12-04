@@ -1,0 +1,32 @@
+
+
+Sample:                                                                 
+Filename: C:\Users\Dusan\Desktop\Deimos\\65Zn_2015.CHN
+File created or changed:   06.08.2019
+No.of channels: 16100
+Measurement date: 27/MAR/19     10:35
+Evaluated : 08.08.2019 13:48:02
+Live time:   498.0 s   Real time:   502.0 s    Dead time:  0.80 %
+Counts total:    263518    Input counts/sec:    529
+            Satellite peaks:
+s10: 0.000  s11: 0.000  s12: 0.000
+d10:   2.5  d11:   4.0  d12:  10.0
+s20: 0.000  s21: 0.000  s22: 0.000
+d20:   0.0  d21:   0.0  d22:   0.0
+base: 0.00000
+
+            ENERGY CALIBRATION
+ 2.774682870882E+0001  1.964252314192E-0001  0.000000000000E+0000  0.000000000000E+0000
+
+            FWHM CALIBRATION
+ 6.598728484701E+0000  9.606801095889E-0004  0.000000000000E+0000
+
+Energy: preliminary linear calibration
+FWHM: preliminary linear calibration
+
+  channel  cherr    energy      area aerr%  fwhm chisq it left   n  lim isotope
+==============================================================================
+ 2463.553  0.135   511.651    3863.4   3.0 15.22  1.19  17 2418  79  325
+ 5532.269  0.827  1114.424    1805.5  31.0 12.17  1.59  40 5499  84  132
+ 5540.450  0.108  1116.031   29771.6   1.6 12.18  1.59  40 5499  84  195
+ 5832.681  1.031  1173.432      66.9  25.0 13.56  0.32  20 5791  86   69
